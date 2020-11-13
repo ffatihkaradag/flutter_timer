@@ -43,7 +43,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   '$seconds',
                   style: TextStyle(
                     color: Colors.white,
-                    fontSize: 50.0,
+                    fontSize: 40.0,
                   ),
                 ),
               ],
